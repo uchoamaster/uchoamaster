@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjruchoa@gmail.com)](mailto:carlosjruchoa@gmail.com)
 
 ## Tecnologias e Interesses:
-`Javascript` `Typescript` `React` `React Native` `Node` `VueJS` `PHP` `HTML` `CSS` `Bootstrap` `Materialize` `CSS3` `...`
+`PHP` `OPENCART Versions: 2 & 3` `WORDPRESS`  `WOOCOMMERCE` `HTML5` `CSS3` `Bootstrap` `Materialize` `Javascript` `Typescript` `React` `React Native` `Node` `VueJS` `...`
 
 `Oracle` `MySQL` `PostgreSQL` `...`
 
