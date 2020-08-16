@@ -8,9 +8,9 @@
 ## Tecnologias e Interesses:
 `Php` `Opencart Versions: 2 & 3` `Wordpress`  `Woocommerce` `Html5` `Css3` `Bootstrap` `Materialize` `Javascript` `React` `React Native` `Node` `VueJS` `...`
 
-`Oracle` `MySQL` `PostgreSQL` `SQL` `...`
+ `MySQL`
 
-`Code Clean` `Clean Architecture` `SOLID` `OO` `MVC` `TDD` `Design Pattern` `...`
+ `OO` `MVC`
 
 
 :fist_oncoming:
