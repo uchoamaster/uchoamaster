@@ -18,3 +18,5 @@
 [![Uchoa's github stats](https://github-readme-stats.vercel.app/api?username=uchoamaster&theme=blue-green)](https://github.com/uchoamaster/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchoamaster&layout=compact)](https://github.com/uchoamaster/github-readme-stats)
+
+[![Uchoa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uchoamaster)](https://github.com/uchoamaster/github-readme-stats)
