@@ -5,13 +5,8 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547997531557&text=Olá!)](https://api.whatsapp.com/send?phone=5547997531557&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjruchoa@gmail.com)](mailto:carlosjruchoa@gmail.com)
 
-## Tecnologias e Interesses:
-`Php` `Opencart Versions: 2 & 3` `Wordpress`  `Woocommerce` `Html5` `Css3` `Bootstrap` `Materialize` `Javascript` `React` `React Native` `Node` `VueJS` `...`
-
- `MySQL`
-
- `OO` `MVC`
-
+## Technologies and interest:
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white 	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white 	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white 	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white  https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white 	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
 :fist_oncoming:
 
@@ -19,4 +14,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uchoamaster&layout=compact)](https://github.com/uchoamaster/github-readme-stats)
 
-[![Uchoa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uchoamaster)](https://github.com/uchoamaster/github-readme-stats)
