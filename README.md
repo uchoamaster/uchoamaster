@@ -21,6 +21,13 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=uchoamaster&show_icons=true&count_private=true&theme=dark" width="350"></a>
+   
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchoamaster&hide=TeX&layout=compact" width="350"></a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=uchoamaster&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)" width="350"></a>
 </p>
 
 <p align='center'>
@@ -35,9 +42,34 @@
   📫 How to reach me: <a href='mailto:carlosjuchoa@hotmail.com'>carlosjuchoa@hotmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/uchoamaster/uchoamaster"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/uchoamaster/uchoamaster"></a> Amount of nerds and devs who have been here o/
 </p>
 
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+<img align="right" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
+<img align="right" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img align="right" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+<img align="right" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+<img align="right" src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />
+<img align="right" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
+<img align="right" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+<img align="right" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+<img align="right" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<img align="right" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+<img align="right" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=social&logo=styled-components&logoColor=DB7093" />
+<img align="right" src="https://img.shields.io/badge/Figma-F04B4C?style=social&logo=figma&logoColor=F04B4C" />
+
+
+
+
+
+
+<br>
+<br>
+<br>
 <details>
   <summary>📃 My Resume</summary>
 
@@ -52,40 +84,47 @@
 📆 2019 - 2020\
 📍 **Faculdade Católica ** - Porto Velho/RO, Brazil
 
-## Experience
-
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
 - 👨‍💻 **FrontEnd Developer**\
 📆 2021 - Moment\
 📍 **Freeline Informática** - Joinville/SC, Brazil
 
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+<img align="right" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
+<img align="right" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img align="right" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+<img align="right" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+<img align="right" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
+<img align="right" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+<img align="right" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+<img align="right" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<img align="right" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 
 - 👨‍💻 **FrontEnd Developer**\
 📆 2018 - 2020\
 📍 **Adsomos** - Brusque/SC, Brazil
 
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+<img align="right" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
+<img align="right" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img align="right" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+<img align="right" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+<img align="right" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+<img align="right" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<img align="right" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 
 - 👨‍💻 **Teacher and Analyst and Front End Developer**\
 📆 2008 - 2018\
 📍 **SENAI - RO** - Porto Velho/RO, Brazil
 
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+<img align="right" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
+<img align="right" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img align="right" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+<img align="right" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<img align="right" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 
 
 </details>
