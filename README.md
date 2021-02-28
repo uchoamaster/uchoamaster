@@ -50,6 +50,8 @@
 <img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 <img align="right" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
+<img align="right" src="https://img.shields.io/badge/-php-394989?style=plastic&logo=php" />
+
 <img align="right" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
 <img align="right" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
 <img align="right" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
@@ -61,6 +63,11 @@
 <img align="right" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 <img align="right" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=social&logo=styled-components&logoColor=DB7093" />
 <img align="right" src="https://img.shields.io/badge/Figma-F04B4C?style=social&logo=figma&logoColor=F04B4C" />
+<img align="right" src="https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI" />
+<img align="right" src="https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS" />
+
+
+
 
 
 
