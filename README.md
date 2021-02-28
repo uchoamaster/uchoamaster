@@ -26,9 +26,9 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchoamaster&hide=TeX&layout=compact" width="350"></a>
 </p>
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=uchoamaster&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)" width="350"></a>
-</p>
+</p> -->
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -84,9 +84,12 @@
 📆 2019 - 2020\
 📍 **Faculdade Católica ** - Porto Velho/RO, Brazil
 
+<br>
+<br>
+<br>
 - 👨‍💻 **FrontEnd Developer**\
 📆 2021 - Moment\
-📍 **Freeline Informática** - Joinville/SC, Brazil
+📍 **Freeline Informática** - Joinville/SC, Brazil<br>
 
 <img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
@@ -99,10 +102,12 @@
 <img align="right" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
 <img align="right" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 <img align="right" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-
+<br>
+<br>
+<br>
 - 👨‍💻 **FrontEnd Developer**\
 📆 2018 - 2020\
-📍 **Adsomos** - Brusque/SC, Brazil
+📍 **Adsomos** - Brusque/SC, Brazil<br>
 
 <img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
@@ -113,10 +118,12 @@
 <img align="right" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
 <img align="right" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 <img align="right" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-
+<br>
+<br>
+<br>
 - 👨‍💻 **Teacher and Analyst and Front End Developer**\
 📆 2008 - 2018\
-📍 **SENAI - RO** - Porto Velho/RO, Brazil
+📍 **SENAI - RO** - Porto Velho/RO, Brazil<br>
 
 <img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
@@ -125,7 +132,9 @@
 <img align="right" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
 <img align="right" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
 <img align="right" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-
+<br>
+<br>
+<br>
 
 </details>
 
