@@ -26,9 +26,9 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchoamaster&hide=TeX&layout=compact" width="350"></a>
 </p>
-<!-- <p align='center'>
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=uchoamaster&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)" width="350"></a>
-</p> -->
+</p> 
 
 <p align='center'>
   💻 My workspace<br/><br/>
