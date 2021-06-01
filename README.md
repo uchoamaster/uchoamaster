@@ -32,10 +32,11 @@
 </p> 
 -->
 
-
 <p align='center'>
-![Snake animation](https://github.com/uchoamaster/uchoamaster/blob/output/github-contribution-grid-snake.svg)
+ 
+  ![Snake animation](https://github.com/uchoamaster/uchoamaster/blob/output/github-contribution-grid-snake.svg)
 </p>
+
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:carlosjuchoa@hotmail.com'>carlosjuchoa@hotmail.com</a>
