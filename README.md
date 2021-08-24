@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A mobile and frontend developer from Joinville, Brazil.
+  A Fullstack developer from Joinville, Brazil.
 </p>
 
 
