@@ -94,10 +94,14 @@
 <br>
 <br>
 <br>
-- 👨‍💻 **FrontEnd Developer**\
+- 👨‍💻 **FullStack Developer**\
 📆 2021 - Moment\
 📍 **Freeline Informática** - Joinville/SC, Brazil<br>
 
+<img align="right" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+<img align="right" src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />
+<img align="right" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
+<img align="right" src="https://img.shields.io/badge/-php-394989?style=plastic&logo=php" />
 <img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 <img align="right" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
