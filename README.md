@@ -18,19 +18,15 @@
   </a>&nbsp;&nbsp;
 
 </p>
-
-<p align='center'>
+<div align='center'>
+  <a href="https://app.daily.dev/uchoamaster"><img src="https://api.daily.dev/devcards/0cfe667066514c36ace7b6690096466f.png?r=3vh" width="400" alt="carlos junior uchoa oliveira's Dev Card"/></a>
+  <div align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=uchoamaster&show_icons=true&count_private=true&theme=dark" width="350"></a>
-   
-</p>
-<p align='center'>
+</div>
+<div align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchoamaster&hide=TeX&layout=compact" width="350"></a>
-</p>
-<!--
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=uchoamaster&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)" width="350"></a>
-</p> 
--->
+</div>
+</div>
 
 <p align='center'>
  
@@ -65,15 +61,6 @@
 <img align="right" src="https://img.shields.io/badge/Figma-F04B4C?style=social&logo=figma&logoColor=F04B4C" />
 <img align="right" src="https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI" />
 <img align="right" src="https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS" />
-
-
-
-
-
-
-
-
-
 <br>
 <br>
 <br>
