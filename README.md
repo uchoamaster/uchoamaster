@@ -19,7 +19,7 @@
 
 </p>
 <div align='center'>
- <a href="https://app.daily.dev/uchoamaster"><img src="https://api.daily.dev/devcards/0cfe667066514c36ace7b6690096466f.png?r=09q" width="400" alt="carlos junior uchoa oliveira's Dev Card"/></a>
+<a href="https://app.daily.dev/uchoamaster"><img src="https://api.daily.dev/devcards/0cfe667066514c36ace7b6690096466f.png?r=old" width="400" alt="carlos junior uchoa oliveira's Dev Card"/></a>
   <div align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=uchoamaster&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </div>
