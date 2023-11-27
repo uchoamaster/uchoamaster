@@ -81,8 +81,33 @@
 <br>
 <br>
 <br>
+- 👨‍💻 **Frontend Engineer**\
+📆 2021 - 2023\
+📍 **SOFT4 -  Soluções e Consultoria** - Joinville/SC, Brazil<br>
+
+<img align="right" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+<img align="right" src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />
+<img align="right" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
+<img align="right" src="https://img.shields.io/badge/-php-394989?style=plastic&logo=php" />
+<img align="right" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+<img align="right" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
+<img align="right" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+<img align="right" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+<img align="right" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+<img align="right" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
+<img align="right" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+<img align="right" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+<img align="right" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+<img align="right" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 - 👨‍💻 **FullStack Developer**\
-📆 2021 - Moment\
+📆 2021 - 2023\
 📍 **Freeline Informática** - Joinville/SC, Brazil<br>
 
 <img align="right" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
