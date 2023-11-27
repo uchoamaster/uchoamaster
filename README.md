@@ -82,7 +82,7 @@
 <br>
 <br>
 - 👨‍💻 **Frontend Engineer**\
-📆 2021 - 2023\
+📆 2023 - Moment\
 📍 **SOFT4 -  Soluções e Consultoria** - Joinville/SC, Brazil<br>
 
 <img align="right" src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js" />
